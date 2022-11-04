@@ -1,0 +1,60 @@
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.exe
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.deps.json
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.runtimeconfig.json
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.AssemblyReference.cache
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfoInputs.cache
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfo.cs
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.CoreCompileInputs.cache
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\refint\ЛР 1 1.dll
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.genruntimeconfig.cache
+A:\Учеба 2 курс\КП и ЯП\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ref\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.exe
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.deps.json
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.runtimeconfig.json
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.AssemblyReference.cache
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfoInputs.cache
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfo.cs
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.CoreCompileInputs.cache
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\refint\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.genruntimeconfig.cache
+A:\Учеба 3 курс\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ref\ЛР 1 1.dll
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.exe
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.deps.json
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.runtimeconfig.json
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.dll
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.pdb
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.AssemblyReference.cache
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.GeneratedMSBuildEditorConfig.editorconfig
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfoInputs.cache
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfo.cs
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.CoreCompileInputs.cache
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.dll
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\refint\ЛР 1 1.dll
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.pdb
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.genruntimeconfig.cache
+J:\КП и ЯП\ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ref\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.exe
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.deps.json
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.runtimeconfig.json
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\bin\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.AssemblyReference.cache
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfoInputs.cache
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.AssemblyInfo.cs
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.csproj.CoreCompileInputs.cache
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\refint\ЛР 1 1.dll
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.pdb
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ЛР 1 1.genruntimeconfig.cache
+A:\Учеба 3 курс\КП и ЯП\КП и ЯП ЛР 1\ЛР 1 1\ЛР 1 1\obj\Debug\net6.0\ref\ЛР 1 1.dll
