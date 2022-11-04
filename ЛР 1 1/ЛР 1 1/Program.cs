@@ -3,7 +3,7 @@
  {
    static void Main()
    {
-      Console.Write("a=");
+      Console.Write("!a=");
       int a = int.Parse(Console.ReadLine());
 
       Console.Write("b=");
